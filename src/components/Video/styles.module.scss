@@ -1,0 +1,12 @@
+.container {
+  flex: 0 0 80%;
+  position: relative;
+}
+
+.video {
+  width: 100%;
+  min-height: 500px;
+  object-fit: contain
+}
+
+

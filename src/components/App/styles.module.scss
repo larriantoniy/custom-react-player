@@ -1,0 +1,23 @@
+.app {
+  padding: 16px;
+  overflow: hidden;
+
+  h1 {
+    display: block;
+    text-align: center;
+    margin: 0 0 16px 0;
+    border: 1px solid gray;
+    border-radius: 5px;
+  }
+}
+
+.container {
+  display: flex;
+}
+
+.isError {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red
+}

@@ -1,0 +1,32 @@
+.container {
+  flex: 0 1 20%;
+  margin-right: 16px;
+}
+
+h2 {
+  margin: 0;
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid gray;
+}
+
+.wrapper {
+  width: 100%;
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+
+.list {
+  max-height: 500px;
+  overflow: auto;
+}
+
+.item {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.item:hover {
+  background: antiquewhite;
+  color: red;
+}
