@@ -1,6 +1,5 @@
 {
   "name": "custom-react-player",
-  "homepage": "https://larriantoniy.github.io/custom-react-player",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
