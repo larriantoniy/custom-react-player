@@ -4,7 +4,7 @@ Authors
 
 Demo
 
-https://larriantoniy.github.io/custom-react-player
+https://larriantoniy.github.io/customrp
 
 Тестовое задание frontend developer
 
