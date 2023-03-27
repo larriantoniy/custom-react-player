@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/customrp/static/css/main.631421a1.css",
+    "main.js": "/customrp/static/js/main.7576c916.js",
+    "index.html": "/customrp/index.html",
+    "main.631421a1.css.map": "/customrp/static/css/main.631421a1.css.map",
+    "main.7576c916.js.map": "/customrp/static/js/main.7576c916.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.631421a1.css",
+    "static/js/main.7576c916.js"
+  ]
+}
