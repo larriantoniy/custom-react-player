@@ -3,6 +3,7 @@ import styles from './styles.module.scss'
 import Video from 'components/Video'
 import TimeEvents from 'components/VideoEvents'
 import { ToastContainer } from 'react-toastify'
+import 'react-toastify/dist/ReactToastify.css'
 
 function App() {
   return (
